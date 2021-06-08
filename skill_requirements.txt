@@ -1,0 +1,21 @@
+
+运维开发工程师
+
+1.掌握Python、Java、Golang语言，有优秀的编码能力；
+2.熟悉协程、多线程、多进程编程，对网络编程有一定的了解，有实际业务开发经验；
+3.熟悉常用数据库：MySQL、MongoDB;
+4.熟悉前端开发语言JavaScript，了解前端开发框架vue、react，能够独立完成前后端分离项目开发；
+
+
+
+容器云开发工程师
+
+1.了解Docker、Kubernetes容器技术，对Cgroup、Iptables、NameSpace等有足够了解，能快速定位问题及修复问题；
+2.熟悉主机网络模型，对Cilium、Flannel、Calico等网络方案有一定理解，实践过集群网络限流方案，熟悉Kubernetes网络流量走向，能快速定位集群网络问题；
+3.基于实际应用场景对原生Kubernetes及周边插件进行二次开发，包括CNI、CSI；
+4.基于开源系统，对容器、集群等开发自动化管理系统，包括多集群系统管理、应用状态管理、应用发布对接等；
+5.具有Kubernetes CNI、Ingress、Operator、Custom Metrics、API Aggregator等扩展行开发经验；
+
+
+
+
